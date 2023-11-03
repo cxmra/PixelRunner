@@ -1,0 +1,1 @@
+pygame.transform.scale2x(player_stand)
